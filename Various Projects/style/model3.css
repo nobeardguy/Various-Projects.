@@ -1,0 +1,32 @@
+.head{
+    font-family: Montserrat;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    margin-left: 87px;
+    margin-bottom: 0px;
+    font-size: 40px;
+    margin-top: 0px;
+ }
+ .line{
+    font-size:20px ;
+    font-family: Montserrat;
+    margin-top: 13px;
+ }
+ .line2{
+   text-decoration: underline;
+ }
+ .P{
+   font-family: Montserrat;
+   font-weight: 300;
+   color: blue;
+   font-size: 20px;
+   margin-top: 0px;  
+ }
+ .water{
+   font-weight: 550;
+ }
+ .order:hover{
+   text-decoration: underline;
+   cursor: pointer;
+ }

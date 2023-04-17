@@ -1,0 +1,110 @@
+
+.div{
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: purple;
+}
+.one{
+  color: white;
+  font-family: Arial;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-left: 8px;
+  cursor: pointer;
+}
+
+.button1{
+    background-color: white;
+    padding-left: 20px;
+   width: 500px;     
+   border-radius: 15px;
+   height: 30px;
+   margin-top: 10px;
+   border-style: none;
+   flex: 1;
+}
+.three{
+    padding-top: 7px;
+    padding-right: 8px;
+   
+}
+.button{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: purple;
+    color: white;
+    font-family: Arial;
+    font-weight: 500;
+    border-color: white;
+    cursor: progress;
+}
+
+.simpledev{
+  width: 600px;
+  background-color: lightblue;
+ height: 200px;
+ display: flex;
+ flex-direction: row;
+ align-items: top;
+
+
+}
+.image{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 8px;
+    margin-left: 10px;
+    border-style: none;
+}
+.dev{
+    margin-top: 1px;
+    margin-left: 5px;
+    padding-left: 4px;
+   height: 800px;
+}
+.dev1{
+   
+   padding-top: 4px;
+   margin-left:2px ;
+}
+.p1{
+    margin-left: 4px;
+    font-family: Arial;
+    font-weight: bolder;
+    line-height: 8px;
+    margin-top: 6px;
+}
+.dev-span{
+   color: rgb(245, 239, 239); 
+   margin-left: 5px;
+}
+.p2{
+    font-family: Arial;
+ font-size: 23px;
+ margin-top: 4px;
+}
+
+.button2{
+    margin-left: 23px;
+    border-radius: 25px;
+    width: 420px;
+    height: 100px;
+    margin-top: -16px;
+    border-color: rgb(185, 181, 181);
+    border-width: 1px;
+    background-color:white;
+}
+.p3{
+  font-size: 22px;
+  font-weight:bold;
+  font-family: Arial;
+  color: gray;
+
+}
+
+
